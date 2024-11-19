@@ -1,0 +1,9 @@
+How to Run the Image_Classification Model
+
+1. Install Required Libraries:
+   Run the following command:
+   pip install tensorflow matplotlib
+
+2. Run the Program:
+   Execute the following command:
+   python main.py
